@@ -1,17 +1,18 @@
-# Pizza App
+# EMS App
 
-A simple pizza ordering and tracking app.
+A simple Employee Management System.
 
 ### Demo Link
 
-link: [https://pizza-mern-app.herokuapp.com/](https://pizza-mern-app.herokuapp.com/)
+link: [https://ems-dev.netlify.app/](https://ems-dev.netlify.app/)
 
 ### Technologies Used
 
-- NodeJS
+- ReactJS
 - MongoDB
-- EJS
-- Socket.IO
+- TypeScript
+- REST API
+- NodeJS
 
 ### License
 
